@@ -9,7 +9,7 @@ return array(
 	/**
 	 *Set the Site Title
 	 */
-	'title' => 'Gliver MVC Framework',
+	'title' => 'Gliver Test',
 	/**
 	 *Set the protocol for this url
 	 */
@@ -29,7 +29,7 @@ return array(
 		/**
 		 *Set the default controller
 		 */
-		'controller' => 'Home',
+		'controller' => 'User',
 		/**
 		 *Set default action
 		 */

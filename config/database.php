@@ -29,7 +29,7 @@ return array(
 		/*
 		 *Specify the database to connnect to
 		 */
-		'database' 	=> '',
+		'database' 	=> 'glivertest',
 		/**
 		 *Specify the database server port
 		 */
