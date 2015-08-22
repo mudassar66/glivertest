@@ -1,0 +1,54 @@
+<b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Call to undefined function Models\Query() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_NOTICE: </b>Undefined variable: this in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Call to a member function from() on a non-object in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Drivers/Models/BaseModel.php</b> on line <b>70</b><br/>
+<b>E_ERROR: </b>Call to a member function from() on a non-object in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Drivers/Models/BaseModel.php</b> on line <b>70</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected '->' (T_OBJECT_OPERATOR) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Call to a member function from() on a non-object in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Drivers/Models/BaseModel.php</b> on line <b>70</b><br/>
+<b>E_ERROR: </b>Class 'Models\UserModel' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Class 'Models\UserModel' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_ERROR: </b>Class 'Models\UserModel' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>19</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'foreach' (T_FOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>32</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>55</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>55</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>55</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>53</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>56</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>56</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected 'endforeach' (T_ENDFOREACH) in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>58</b><br/>
+<b>E_NOTICE: </b>Trying to get property of non-object in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>38</b><br/>
+<b>E_NOTICE: </b>Trying to get property of non-object in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>36</b><br/>
+<b>E_ERROR: </b>Class 'Controllers\Input' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>52</b><br/>
+<b>E_ERROR: </b>Class 'Controllers\Input' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>52</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Input::all() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>54</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Input::all() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>54</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Input::all() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>54</b><br/>
+<b>E_NOTICE: </b>Array to string conversion in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>57</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Redirect::route() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>62</b><br/>
+<b>E_NOTICE: </b>Undefined variable: email in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>61</b><br/>
+<b>E_NOTICE: </b>Undefined index: inputEmail in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>61</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Redirect::route() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>67</b><br/>
+<b>E_ERROR: </b>Class 'Controllers\Session' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>66</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\Session::put() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>68</b><br/>
+<b>E_NOTICE: </b>Use of undefined constant Session - assumed 'Session' in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>73</b><br/>
+<b>E_NOTICE: </b>Use of undefined constant Session - assumed 'Session' in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>27</b><br/>
+<b>E_NOTICE: </b>Use of undefined constant Session - assumed 'Session' in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>34</b><br/>
+<b>E_NOTICE: </b>Undefined variable: title in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>7</b><br/>
+<b>E_NOTICE: </b>Undefined variable: title in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>7</b><br/>
+<b>E_WARNING: </b>Missing argument 1 for Helpers\Url::base(), called in /Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code on line 1 and defined in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Url.php</b> on line <b>45</b><br/>
+<b>E_ERROR: </b>Call to undefined method Helpers\View::make() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>49</b><br/>
+<b>E_NOTICE: </b>Undefined variable: title in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>7</b><br/>
+<b>E_RECOVERABLE_ERROR: </b>Argument 2 passed to Helpers\View::render() must be of the type array, string given, called in /Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php on line 49 and defined in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php</b> on line <b>47</b><br/>
+<b>E_WARNING: </b>include(..\header.php): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>1</b><br/>
+<b>E_WARNING: </b>include(../header.php): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>1</b><br/>
+<b>E_WARNING: </b>include(header.php): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>1</b><br/>
+<b>E_WARNING: </b>include(header.php): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/View.php(71) : eval()'d code</b> on line <b>1</b><br/>
+<b>E_NOTICE: </b>Undefined index: inputEmail in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>105</b><br/>
+<b>E_NOTICE: </b>Array to string conversion in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Drivers/Database/MySQL/MySQLQuery.php</b> on line <b>317</b><br/>
+<b>E_NOTICE: </b>Array to string conversion in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Drivers/Database/MySQL/MySQLQuery.php</b> on line <b>317</b><br/>
+<b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>34</b><br/>
+<b>E_ERROR: </b>Call to undefined function Models\getProfile() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>34</b><br/>
+<b>E_NOTICE: </b>Undefined variable: email in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>111</b><br/>

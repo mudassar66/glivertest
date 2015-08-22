@@ -23,3 +23,4 @@ return array(
 'work' => 'User@index'
 
 );
+//Route::model('users', 'User');
