@@ -57,3 +57,5 @@
 <b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>
 <b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>
 <b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>
+<b>E_ERROR: </b>Class 'Helpers\HelperException' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>49</b><br/>
+<b>E_PARSE: </b>syntax error, unexpected '/', expecting ',' or ';' in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>13</b><br/>

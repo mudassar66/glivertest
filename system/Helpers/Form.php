@@ -10,6 +10,7 @@
  *@package Core\Helpers\Form
  */
 use Exceptions\BaseException;
+use Helpers\Exceptions\HelperException;
 
 class Form {
 	
@@ -45,7 +46,7 @@ class Form {
                 
                      //this block throwing exception if method argument is not an array
                     if(! is_array($form_attr)){
-                        throw new BaseException(sprintf('Expecting array of form attributes.e.g.$form_attr = array(\'name\'=>\'form1\',\'action\'=>\'post\')',$form_attr));
+                        throw new HelperException(sprintf('Expecting array of form attributes.e.g.$form_attr = array(\'name\'=>\'form1\',\'action\'=>\'post\')',$form_attr));
                     }
                     $form_attr_str='';
                     foreach($form_attr as $key=>$val){
