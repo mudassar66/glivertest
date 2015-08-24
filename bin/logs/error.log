@@ -52,3 +52,8 @@
 <b>E_ERROR: </b>Using $this when not in object context in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>34</b><br/>
 <b>E_ERROR: </b>Call to undefined function Models\getProfile() in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/models/UsersModel.php</b> on line <b>34</b><br/>
 <b>E_NOTICE: </b>Undefined variable: email in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>111</b><br/>
+<b>E_ERROR: </b>Class 'Controllers\User' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>111</b><br/>
+<b>E_ERROR: </b>Class 'Controllers\FORM' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/application/controllers/UserController.php</b> on line <b>34</b><br/>
+<b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>
+<b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>
+<b>E_ERROR: </b>Class 'Helpers\Exception' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/glivertest/system/Helpers/Form.php</b> on line <b>48</b><br/>

@@ -44,7 +44,7 @@
                 <li>
                      <div class="wrapper">
                         <h4 class="gliver-text">Welcome <a href="{{ Url::base('user/profile') }}">{{ Session::get('user')}}</a> | <a href="{{ Url::base('user/logout') }}">Logout</a></h4>
-                        
+                       
                     </div>  
                 </li>
                 @else
@@ -58,6 +58,10 @@
                         <a href="{{ Url::base('user/signin') }}">Here</a>
                         
                         </h4>
+                         <p>{{ $form_open }}
+                         <br />
+                         {{ $form_close }}
+                         </p>
                     </div>
                 </li>
                 @endif

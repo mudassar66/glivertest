@@ -10,6 +10,7 @@
  */
 
 use Helpers\View;
+use Helpers\Form;
 use Models\UsersModel;
 use Input;
 use Redirect;
@@ -30,6 +31,10 @@ class UserController extends BaseController {
 
 		//get the ending date today
                 //View::render('header', $data);
+                $form_attr = 'ss';//array('name'=>'frm','method'=>'post');
+                $data['form_open'] = FORM::open($form_attr);
+                $data['form_close'] = FORM::close();
+                
 		View::render('users/index', $data);
                 //View::render('footer');
 
